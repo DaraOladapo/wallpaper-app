@@ -1,2 +1,10 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WallpaperSync.Client/WallpaperSync.Client.csproj" />
+    <Project Path="src/WallpaperSync.Contracts/WallpaperSync.Contracts.csproj" />
+    <Project Path="src/WallpaperSync.Functions/WallpaperSync.Functions.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WallpaperSync.Tests/WallpaperSync.Tests.csproj" />
+  </Folder>
 </Solution>
